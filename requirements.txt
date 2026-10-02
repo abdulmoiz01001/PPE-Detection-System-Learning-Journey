@@ -1,0 +1,8 @@
+# PPE Detection System - Requirements
+
+# Deep Learning & Object Detection
+ultralytics>=8.2.0        # YOLOv8/YOLOv11 for object detection
+
+# Image & Video Processing
+opencv-python>=4.8.0      # Computer vision (video capture, drawing, etc.)
+     # HTTP requests (downloading models/datasets)
